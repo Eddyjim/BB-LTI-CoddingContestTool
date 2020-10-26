@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ejimenez/work/baseTool/venv"
+VIRTUAL_ENV="/Users/ejimenez/work/BB-LTI-Coding-Contest/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

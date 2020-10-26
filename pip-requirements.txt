@@ -1,4 +1,5 @@
 flask
+flask-restful
 sqlalchemy
 PyLTI1p3
 gunicorn
